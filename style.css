@@ -1,0 +1,70 @@
+.main-landing-page{
+    border: solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+.header-logo {
+    border: solid green 5px;
+    width: 1075px;
+    height: 120px;
+    
+    
+    
+}
+
+.rossum-logo{
+    border: solid blue 5px;
+
+}
+
+.spacer-block3{
+    border: solid black 5px;
+    flex: 20;
+}
+
+.main-section{
+    border: solid orange 5px;
+    width: 1075px;
+    height: 726px;
+    display: flex;
+    flex-direction: column;
+    
+
+    
+
+}
+.spacer-block1{
+    border: solid blue 5px;
+    flex: 30;
+    
+}
+.dataEntry{
+ border: solid red 5px;
+ /*width: 978.84;
+ height: 63;*/
+ flex: 15;
+ 
+}
+
+.spacer-block2 {
+    border: solid black 5px;
+    flex: 6;
+}
+
+.artificialText{
+ border: solid  yellow 5px;
+ width: 975;
+ height: 36;
+ flex: 8;
+}
+
+.arrowLogo{
+ border: solid  purple 5px;
+ flex: 45;
+}
+
+.justMyImage {
+border: solid black 5px;
+
+}
